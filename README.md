@@ -7,7 +7,7 @@ Conjuntos de Dados Analisados
 
 Este repositório inclui os seguintes dashboards principais:
 
-1. Análise de Pesquisa com Profissionais de Dados :memo:
+1. Análise de Pesquisa com Profissionais de Dados
 
 Visão Geral:
 Análise de um conjunto de dados de pesquisa para obter insights sobre carreiras, salários e satisfação no trabalho de profissionais de dados.
